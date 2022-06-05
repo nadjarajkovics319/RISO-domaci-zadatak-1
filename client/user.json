@@ -1,0 +1,12 @@
+{
+  "username": "testera",
+  "ime": "test",
+  "prezime": "testic",
+  "smer": "RR",
+  "predmeti": [
+    {
+      "ime": "UUP",
+      "espb": 8
+    }
+  ]
+}
